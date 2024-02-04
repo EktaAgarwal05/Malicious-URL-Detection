@@ -1,0 +1,13 @@
+Copy -Paste the code 
+Save it
+Upload csv file in your folder.
+run this command on terminal-pip install numpy pandas tld scikit-learn
+Ensure that the CSV file "malicious_phish.csv" is in the same directory as your script or provide the correct path to it in the pd.read_csv line.
+Run this command-python yourfile_name.py 
+The accuracy is printed as 0.9559962837552499, which is approximately 95.60%. This means that your Decision Tree model achieved an accuracy of 95.60% on the test data.
+In the context of a classification problem (such as phishing detection), accuracy represents the percentage of correctly predicted instances out of the total instances.
+
+Here's a breakdown:
+
+Accuracy: 95.60%
+Predicted Label for the Test Sample: 'phishing'
